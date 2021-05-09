@@ -14,12 +14,12 @@ Main parameters used for roadmap generation:
 
 ### Generated Roadmap:
 
-<img src = "https://github.com/shorane/Motion_Planning/blob/master/Sampling_based/Probabilistic_Roadmap_PRM/images/Generated_Roadmap.png" width="400" height="400"/>
+![](images/Generated_Roadmap.png)
 
 ### Start and Goal points:
 
-<img src = "https://github.com/shorane/Motion_Planning/blob/master/Sampling_based/Probabilistic_Roadmap_PRM/images/Start_goal.png" width="400" height="400"/>
+![](images/Start_goal.png)
 
 ### Path extracted from Roadmap:
 
-<img src = "https://github.com/shorane/Motion_Planning/blob/master/Sampling_based/Probabilistic_Roadmap_PRM/images/Path.png" width="400" height="400"/>
+![](images/Path.png)
