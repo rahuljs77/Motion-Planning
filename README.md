@@ -9,13 +9,14 @@ This repository contains some implementations of some path planning algorithms.
 [2. Uniform Cost Search (UCS)]
 ![](media/BFS.gif)
 
+
 [3. Astar (A*)]
 ![](media/Astar.gif) 
+
 
 [4. Probabilistic Roadmap Generation (PRM)]
 ![](media/Path.png)
 
-[5. Rapidly-exploring Random Trees (RRT)]
 
 
 ## Force-based Local Navigation:
