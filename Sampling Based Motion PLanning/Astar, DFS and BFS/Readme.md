@@ -2,7 +2,7 @@
 
 ## Depth-first search (DFS):
 
-
+![] implementation/Astar.gif
 ## Uniform Cost Search (UCS):
 
 
