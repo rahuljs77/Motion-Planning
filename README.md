@@ -11,6 +11,7 @@ This repository contains some implementations of some path planning algorithms.
 
 
 [3. Astar (A*)]
+
 ![](media/Astar.gif) 
 
 
