@@ -1,1 +1,27 @@
-# Motion-Planning
+# Motion planning algorithms
+
+This repository contains some implementations of some path planning algorithms.
+## Sampling-based Graph Search Algorithms:
+
+[1. Depth-First Search (DFS)]
+![](media/DFS.png)
+
+[2. Uniform Cost Search (UCS)]
+![](media/BFS.png)
+
+[3. Astar (A*)]
+![](media/Astar.png) 
+
+[4. Probabilistic Roadmap Generation (PRM)]
+![](media/Path.png)
+
+[5. Rapidly-exploring Random Trees (RRT)]
+
+
+## Force-based Local Navigation:
+
+[1. 8 Agent Simulation]
+![](media/8_agents.gif)
+
+[2. Crowd Crossing Simulation]
+![](media/crowd_crossing.gif)
