@@ -4,13 +4,13 @@ This repository contains some implementations of some path planning algorithms.
 ## Sampling-based Graph Search Algorithms:
 
 [1. Depth-First Search (DFS)]
-![](media/DFS.png)
+![](media/DFS.gif)
 
 [2. Uniform Cost Search (UCS)]
-![](media/BFS.png)
+![](media/BFS.gif)
 
 [3. Astar (A*)]
-![](media/Astar.png) 
+![](media/Astar.gif) 
 
 [4. Probabilistic Roadmap Generation (PRM)]
 ![](media/Path.png)
